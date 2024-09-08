@@ -1,111 +1,98 @@
-<h1 align="center">Hi 👋, I'm Nikhil Patil (space-techy)</h1>
-<h3 align="center">A Passionate Developer & Tech Enthusiast, Exploring the Universe of Technology</h3>
+<h1 align="center">Hey there! 👋 I'm <span style="color: #3498db;">Nikhil Patil</span> (aka <span style="color: #e74c3c;">space-techy</span>)</h1>
+<h3 align="center">🚀 Full-Stack Developer | Cybersecurity Enthusiast | Tech Explorer 🧑‍💻</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=space-techy&label=Profile%20views&color=0e75b6&style=flat" alt="space-techy" />
+  <img src="https://komarev.com/ghpvc/?username=space-techy&label=Visitors&color=brightgreen&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/space-techy?tab=followers">
     <img src="https://img.shields.io/github/followers/space-techy?label=Followers&style=social" alt="GitHub Followers">
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=space-techy&theme=algolia&column=6&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-- 🔭 I’m currently working on **StreamOO (A Streaming Platform like Netflix)**
-- 🌱 I’m learning **AI/ML, Advanced DSA Algorithms, and Building Personal Projects**
-- 👨‍💻 All my projects are available at **[GitHub](https://github.com/space-techy)**
-- 💬 Ask me about **Python, DSA, Web Development**
-- 📫 How to reach me **nikhilpatil222003@gmail.com**
-- ⚡ Fun fact: **I think about space and technology a lot!**
-
----
-
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/space-techy" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/space_techy" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/space-techy" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" height="30" width="40" />
+  <a href="https://github.com/space-techy?tab=repositories">
+    <img src="https://img.shields.io/github/stars/space-techy?label=Stars" alt="GitHub Stars">
   </a>
 </p>
 
 ---
 
-<h3 align="center">⚒️ Tech Stack</h3>
+<img align="right" alt="Coding GIF" height="250" style="border-radius: 10px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 🌟 About Me
+- 🔭 Currently working on **StreamOO**, a Netflix-like streaming platform.
+- 🌱 Learning **AI/ML**, advanced **Data Structures & Algorithms**, and building exciting projects.
+- 💡 Passionate about solving problems with **Python**, **JavaScript**, and exploring new technologies.
+- 💬 Ask me about **Cybersecurity**, **Web Development**, **Blockchain**.
+- ⚡ Fun fact: I'm a space enthusiast, constantly imagining future tech and space exploration!
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Framework-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 🚀 My GitHub Stats
 <p align="center">
-  <!-- Programming Languages -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=space-techy&show_icons=true&theme=radical" alt="space-techy's GitHub stats" />
+</p>
 
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=space-techy&theme=radical" alt="GitHub Streak Stats">
+</p>
 
-  <!-- Frameworks -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=space-techy&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/space-techy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <a href="https://github.com/space-techy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <a href="https://codeforces.com/profile/space-techy" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
+  <a href="https://www.codechef.com/users/space_techy" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 💡 Projects
+- **[StreamOO](https://github.com/space-techy/StreamOO)** - A streaming platform inspired by Netflix.
+- **[Timetable Management System](https://github.com/space-techy/timetable-management)** - A web application for creating and managing timetables for teachers.
+
+---
+
+### 🎨 Fun with Badges
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=space-techy&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=space-techy&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=space-techy&" alt="GitHub Streak Stats" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-  <strong>Let's explore the world of technology together 🚀</strong>
-</p>
+### 🌍 Let's Collaborate!
+<p align="center">Let's build amazing projects together and explore the future of technology! Reach out to me on any platform!</p>
+
