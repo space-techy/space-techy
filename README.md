@@ -1,22 +1,26 @@
-<h1 align="center">Hi 👋, I'm space-techy</h1>
-<h3 align="center">A space and technology enthusiast passionate about both Hardware and Software projects.</h3>
+<h1 align="center">Hi 👋, I'm Space-Techy</h1>
+<h3 align="center">🚀 A passionate space and technology enthusiast exploring the universe through both hardware and software! 🌌</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=space-techy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=space-techy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=space-techy" alt="Profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=space-techy&theme=algolia" alt="Profile trophies" />
   </a>
 </p>
 
+---
+
 - 🔭 I’m currently working on **StreamOO** (A streaming site like Netflix)
-- 🌱 I’m learning **AI/ML, Advanced DSA Algorithms**, and working on **personal projects**
-- 👨‍💻 Check out my projects at [GitHub](https://github.com/space-techy/)
-- 💬 Ask me about **Python** and **DSA**
+- 🌱 I’m learning **AI/ML, Advanced DSA Algorithms**, and exploring **personal projects**
+- 👨‍💻 Check out my projects on [GitHub](https://github.com/space-techy/)
+- 💬 Ask me about **Python** and **Data Structures and Algorithms (DSA)**
 - 📫 Reach me at **nikhilpatil222003@gmail.com**
 - ⚡ Fun fact: **I think about space a lot!**
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -71,14 +75,16 @@
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=space-techy&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=space-techy&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=space-techy&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=space-techy&show_icons=true&locale=en&theme=algolia" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=space-techy&" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=space-techy&theme=algolia" alt="GitHub streak" />
 </p>
