@@ -1,81 +1,65 @@
-<h1 align="center" style="font-size: 3.5em;">Hi 👋, I'm <span style="color: #FF5733;">Nikhil Patil (space-techy)</span></h1>
-<h3 align="center" style="font-weight: bold; font-size: 2em;">Tech Enthusiast | Full Stack Developer | AI/ML Learner | Space Admirer</h3>
+<h1 align="center">Hi 👋, I'm Nikhil Patil (space-techy)</h1>
+<h3 align="center">Tech Enthusiast | Full Stack Developer | Space Admirer</h3>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=space-techy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="space-techy" />
-   <img src="https://img.shields.io/github/followers/space-techy?color=green&style=for-the-badge" alt="Followers" />
-   <img src="https://img.shields.io/github/stars/space-techy?color=gold&style=for-the-badge" alt="Stars" />
-</p>
-
-<p align="center" style="font-size: 1.5em;">
-   🚀 I’m a passionate developer diving deep into cutting-edge tech! From software engineering to hardware hacking, I push boundaries in AI, ML, and space technologies. Always learning, always growing.
+  <img src="https://komarev.com/ghpvc/?username=space-techy&label=Profile%20Views&color=0e75b6&style=flat" alt="space-techy" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=space-techy&theme=dracula&margin-w=15&margin-h=15&row=1&column=7" alt="space-techy" />
+  </a>
 </p>
 
 <p align="center">
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=space-techy&theme=dracula&row=1&no-bg=true&margin-w=15&margin-h=15" alt="GitHub trophies" />
+  <a href="https://linkedin.com/in/space-techy"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.codechef.com/users/space_techy"><img src="https://img.shields.io/badge/Codechef-FF9900?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://codeforces.com/profile/space-techy"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 </p>
 
 ---
 
-### 🚀 Current Focus
-- 🔭 Building **StreamOO**, a powerful streaming site like Netflix but with a twist!
-- 🌱 Learning **AI/ML** and sharpening my **DSA skills** every day.
+### 🚀 About Me
+- 🔭 I’m currently working on **[StreamOO](https://github.com/space-techy/StreamOO)** - A streaming platform inspired by Netflix
+- 🌱 I’m learning **AI/ML, Advanced DSA Algorithms** and continuously building new projects
+- 💬 Ask me about **Python, DSA, MERN Stack**
+- 👨‍💻 Check out all my projects at **[GitHub](https://github.com/space-techy/)**
+- 📫 Reach me at **nikhilpatil222003@gmail.com**
+- ⚡ Fun fact: **I’m obsessed with space!**
 
 ---
 
-### 💡 My Tech Stack:
-<div align="center">
-   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+### 🛠️ Languages and Tools
 
----
-
-### 🛠️ Tools I Love Working With:
-<p align="center">
-   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <!-- Add more as needed -->
 </p>
 
 ---
 
-<h3 align="center">🔥 GitHub Stats</h3>
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=space-techy&show_icons=true&theme=tokyonight" alt="space-techy GitHub stats" />
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=space-techy&theme=tokyonight" alt="GitHub streaks" />
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=space-techy&layout=compact&theme=tokyonight" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=space-techy&show_icons=true&theme=radical" alt="space-techy's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=space-techy&theme=radical" alt="space-techy" />
 </p>
 
----
-
-<h3 align="center">🌟 My Core Values</h3>
-<p align="center" style="font-size: 1.5em;">
-   🚀 I love creating, innovating, and solving complex problems.<br>
-   🧠 I'm known for my hard work, perseverance, and passion for technology.<br>
-   🌱 Constantly growing, adapting, and seeking out new challenges.<br>
-   🌌 Space, technology, and intelligence drive my dreams.
-</p>
-
----
-
-### 📫 Reach Out to Me!
 <p align="center">
-   <a href="https://linkedin.com/in/space-techy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-   <a href="https://www.codechef.com/users/space_techy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-   <a href="https://codeforces.com/profile/space-techy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=space-techy&show_icons=true&locale=en&layout=compact&theme=radical" alt="space-techy's top languages" />
 </p>
 
-<h3 align="center">⚡ Fun Fact:</h3>
-<p align="center" style="font-size: 1.5em;">I think about space... a lot! 🌌</p>
+---
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=space-techy&theme=radical&margin-w=15&margin-h=15&row=1&column=7" alt="space-techy's GitHub trophies" />
+</p>
