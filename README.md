@@ -103,15 +103,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 Top 5% in **CodeChef** programming competitions.
-- 🌟 **Hackathon Champion** in [Smart India Hackathon 2024](https://sih.gov.in/), developing an AI-powered mobile portal for disease diagnosis and reporting.
-- 🏅 Recognized contributor to **Open Source Projects** in the Python and JavaScript communities.
-- 🚀 Successfully built and deployed a microservices architecture using **Docker** and **Kubernetes**.
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
