@@ -7,35 +7,25 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=space-techy&theme=algolia" alt="Profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=space-techy&theme=algolia&no-frame=true&margin-w=5" alt="Profile trophies" />
   </a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on **StreamOO** (A streaming site like Netflix)
-- 🌱 I’m learning **AI/ML, Advanced DSA Algorithms**, and exploring **personal projects**
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/space-techy/)
-- 💬 Ask me about **Python** and **Data Structures and Algorithms (DSA)**
-- 📫 Reach me at **nikhilpatil222003@gmail.com**
-- ⚡ Fun fact: **I think about space a lot!**
+## 🚀 About Me
+
+- 🔭 I’m currently working on **StreamOO**, a streaming platform similar to Netflix, to enhance my skills in full-stack development.
+- 🌱 I’m diving deep into **AI/ML**, learning **Advanced DSA Algorithms**, and building a range of **personal projects**.
+- 👨‍💻 You can check out all my projects on my [GitHub](https://github.com/space-techy/).
+- 💬 Feel free to ask me about **Python**, **Data Structures and Algorithms (DSA)**, and **Full-Stack Development**.
+- 🎯 2024 Goals: Contribute to **Open Source**, **Build an AI-based project**, and complete **Advanced DSA** courses.
+- ⚡ Fun fact: When I'm not coding, I'm usually stargazing or thinking about the mysteries of the cosmos!
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/space-techy" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/space_techy" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/space-techy" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-</p>
+## 🛠️ Languages and Tools
 
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
@@ -77,9 +67,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=space-techy&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top languages" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=space-techy&show_icons=true&locale=en&theme=algolia" alt="GitHub stats" />
@@ -88,3 +76,45 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=space-techy&theme=algolia" alt="GitHub streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=space-techy&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top languages" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/space-techy" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/space_techy" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/space-techy" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/space-techy" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 📧 How to Reach Me
+
+- 📫 Email: **nikhilpatil222003@gmail.com**
+- 🌐 Website: [space-techy.dev](https://space-techy.dev) (Coming Soon!)
+
+---
+
+## 🎨 Fun Facts
+
+- 🌠 I spend my free time watching the stars and learning about **astronomy**.
+- 🧩 I love solving puzzles and playing chess to sharpen my problem-solving skills.
+- 💡 I'm always curious about the latest tech trends and innovations.
+
+---
+
+<p align="center">✨ "Exploring the infinite possibilities of technology, one line of code at a time." ✨</p>
