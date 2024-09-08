@@ -1,81 +1,84 @@
-<h1 align="center">Hi 👋, I'm space-techy (Nikhil Patil)</h1>
-<h3 align="center">🚀 A space and technology enthusiast with a passion for exploring projects from hardware to software.</h3>
+<h1 align="center">Hi 👋, I'm space-techy</h1>
+<h3 align="center">A space and technology enthusiast passionate about both Hardware and Software projects.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=space-techy&label=Profile%20views&color=0e75b6&style=flat" alt="space-techy" />
-  <a href="https://github.com/space-techy/">
-    <img src="https://img.shields.io/github/followers/space-techy?label=Follow%20Me&style=social" alt="GitHub Followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=space-techy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=space-techy&theme=monokai&no-frame=true&row=1&column=6" alt="space-techy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=space-techy" alt="Profile trophies" />
   </a>
 </p>
 
----
+- 🔭 I’m currently working on **StreamOO** (A streaming site like Netflix)
+- 🌱 I’m learning **AI/ML, Advanced DSA Algorithms**, and working on **personal projects**
+- 👨‍💻 Check out my projects at [GitHub](https://github.com/space-techy/)
+- 💬 Ask me about **Python** and **DSA**
+- 📫 Reach me at **nikhilpatil222003@gmail.com**
+- ⚡ Fun fact: **I think about space a lot!**
 
-### 🔭 What I'm Currently Working On:
-- **[StreamOO](https://github.com/space-techy/StreamOO)** – A streaming platform like Netflix.
-- Exploring **AI/ML** and **Advanced DSA Algorithms**.
-
-### 🌱 What I'm Learning:
-- **AI/ML, Full-Stack Development**, and building **self-initiated projects**.
-
-### 💬 Ask Me About:
-- **Python, DSA, Web Development, Blockchain, and Cybersecurity**.
-
-### 📫 How to Reach Me:
-- **nikhilpatil222003@gmail.com**
-
----
-
-<h3 align="center">🌐 Connect with Me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/space-techy" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/space-techy" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/space_techy" target="blank">
-    <img src="https://img.shields.io/badge/-CodeChef-%23B5A642.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+  <a href="https://www.codechef.com/users/space_techy" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/space-techy" target="blank">
-    <img src="https://img.shields.io/badge/-CodeForces-%23FBB03B.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces">
+  <a href="https://codeforces.com/profile/space-techy" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
 </p>
 
----
-
-<h3 align="center">🛠️ Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
 </p>
 
----
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=space-techy&layout=compact&langs_count=8&theme=dark" alt="space-techy top languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=space-techy&show_icons=true&locale=en&theme=dark" alt="space-techy stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=space-techy&show_icons=true&locale=en&layout=compact" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=space-techy&theme=dark" alt="space-techy streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=space-techy&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
 
----
-
-<h3 align="center">⚡ Fun Fact:</h3>
-<p align="center">I think about space a lot! 🌌</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=space-techy&" alt="GitHub streak" />
+</p>
