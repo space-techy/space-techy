@@ -19,7 +19,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **[StreamOO](https://github.com/space-techy/StreamOO)**, a streaming platform like Netflix.
-- 🌱 Learning **AI/ML, Advanced DSA Algorithms**, and building exciting **personal projects**.
+- 🌱 Learning **AI/ML, Advanced DSA**, and building exciting **personal projects**.
 - 💻 Check out all my projects on **[GitHub](https://github.com/space-techy)**.
 - 💬 I love talking about **Python, DSA, Web Development**, and more!
 - 📧 Reach me at **nikhilpatil222003@gmail.com**
